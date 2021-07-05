@@ -12,9 +12,9 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            I've built MockTest App using SwiftUI and DeFi bank using Ethereum,
+            Solidity, Web3 and React. I've some other projects listed in my
+            github using different technologies.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
