@@ -3,7 +3,7 @@ export const projects = [
     title: "Mock Tests App",
     subtitle: "Swift UI",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This is a Simple MockTest app to exhibit my UI skills using swiftUI",
     image: "./swiftUiMocktest.gif",
     link: "https://github.com/akash1711/MockTestSwiftUI/blob/main/MockTest/swiftUiMocktest.gif",
   },
